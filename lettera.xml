@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlsn="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lettera scritta dal Principe Alberto alla Regina Victoria durante il loro fidanzamento (15 novembre 1839)</title>
+				<author>Principe Alberto di Sassonia-Coburgo-Gotha</author>
+				<respStmt>
+					<resp>Encoded by:</resp>
+					<name xml:id="FS"> Federica Saviotti </name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Royal Archives</publisher>
+				<availability>
+					Questo testo è stato pubblicato con il consenso di sua maestà la Regina Elisabetta II, il contenuto appartiene alla Royal Collection Trust. Non è consentito l'utilizzo delle immagini per uso pubblicitario senza il consenso della Royal Collection Trust.
+				</availability>
+				<date>2016</date>
+			<idno type="rct.uk">https://www.rct.uk/collection/themes/exhibitions/treasures-from-the-royal-archives/windsor-castle/ra-vicmainz29624</idno>
+			<idno type="ra">RA VIC/MAIN/Z/296/24</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+				<titleStmt>Letter from Prince Albert to Queen Victoria written during their engagement, 15 november 1839, Windsor Castle, Royal Collection Trust</titleStmt>
+					<address>
+					<addrLine>The Royal Archives</addrLine>
+					<addrLine>Round Tower</addrLine>
+					<addrLine>Windsor Castle</addrLine>
+					<addrLine>Windsor</addrLine>
+					<addrLine>Berkshire SL4 1NJ</addrLine>
+					</address>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+				<encodingDesc>
+					<editorialDecl>
+					<p>Testo preservato nella sua interezza durante la trascrizione.</p>
+				</editorialDecl>
+				</encodingDesc>
+			
+			<listPerson type="real">
+  <person xml:id="Principe Alberto">
+   <persName>Alberto di Sassonia-Coburgo-Gotha</persName>
+   <abbr>Albert</abbr>
+   <note>Principe Alberto, consorte della regina Victoria del Regno unito.</note>
+  </person>
+  <person xml:id="Regina Victoria">
+   <persName>Regina Victoria del Regno Unito</persName>
+   <abbr>Victoria</abbr>
+   <note>Regina Victoria del Regno unito, promessa sposa di Alberto.</note>
+  </person>
+  <person xml:id="Ernesto I">
+   <persName>Ernesto I di Sassonia-Coburgo-Gotha</persName>
+   <abbr>Ernest</abbr>
+   <note>Duca di Sassonia-Coburgo-Gotha, padre del Principe Alberto.</note>
+  </person>
+  <person xml:id="Louise Lehzen">
+   <persName>Johanna Clara Louise Lehzen, Baroness of Lehzen</persName>
+   <abbr>B Lehzen</abbr>
+   <note>Fu la governante della giovane Regina Victoria.</note>
+  </person>
+</listPerson>
+<profileDesc>
+	<creation>
+		<date>1839</date>
+	</creation>
+	<langUsage>
+		<language ident="en">English</language>
+	</langUsage>
+	<textDesc n="letter">
+	</textDesc>
+</profileDesc>
+</teiHeader>
+<text>
+	<front>
+		<body>
+	<head>Dearest deeply loved Victoria.</head>
+
+<p>According to your wish, and by the urging of my heart to talk to you and open my heart to you, I send these lines. We arrived safely at Calais, and Lord Alfred [Paget] is to re-cross in a ¼ of an hour, and will arrive at Windsor early tomorrow. The state of the tide and strong wind forced us to start at 2.30 in the morning, and we reached here at about 6 o’clock. Even then the Firebrand could not approach the quay, so that we decided to go ashore in a smaller boat. We both, Schenk, and all the servants were fearfully ill; I have hardly recovered yet.</p>
+<p>I need not tell you that since we left, all my thoughts have been with you at Windsor, and that your image fills my whole soul. Even in my dreams I never imagined that I should find so much love on earth. How that moment shines for me still when I was close to you, with your hand in mine. Those days flew by so quickly, but our separation will fly equally so.</p>
+
+<p>Ernest wishes me to say a thousand nice things to you.</p>
+
+<p>With promises of unchanging love and devotion
+Your ever true
+Albert.
+My best respects to dear Aunt and B[aroness] Lehzen</p>
+</body>
+</front>
+</text>
+</TEI>
+
+			
